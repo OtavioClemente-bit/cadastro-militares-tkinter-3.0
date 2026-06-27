@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Bancos e dados locais reais
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+database/*.sqlite
+data/
+backup/
+backups/
+
+# Arquivos sensíveis / documentos reais
+*.pdf
+*.doc
+*.docx
+*.odt
+*.xls
+*.xlsx
+*.xlsm
+*.zip
+*.rar
+*.7z
+contracheques/
+boletins/
+Documentos/
+Documents/
+
+# Logs e temporários
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
